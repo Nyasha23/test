@@ -9,11 +9,11 @@
   },
   {
     "ParameterKey": "SourceRepoBranch",
-    "ParameterValue": "develop"
+    "ParameterValue": "master"
   },
   {
     "ParameterKey": "ReleaseBranch",
-    "ParameterValue": "master"
+    "ParameterValue": "releases"
   },
   {
     "ParameterKey": "GitHubOAuthToken",
