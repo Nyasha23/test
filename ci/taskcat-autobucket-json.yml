@@ -1,7 +1,7 @@
 ---
 global:
   owner: tonynv@amazon.com
-  qsname: sample-taskcat-project
+  qsname: test
   regions:
     - ap-northeast-1
     - ap-northeast-2

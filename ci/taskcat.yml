@@ -1,7 +1,7 @@
 ---
 global:
   owner: owner@company.com
-  qsname: sample-taskcat-project
+  qsname: test
   s3bucket: taskcat-sample-taskcat-project-a1c14bc9
   regions:
     - ap-northeast-1
